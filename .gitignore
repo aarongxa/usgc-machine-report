@@ -1,0 +1,8 @@
+/machine-report
+/machine-report.exe
+*.exe
+*.test
+*.out
+/dist/
+/bin/
+.DS_Store
